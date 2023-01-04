@@ -1,7 +1,7 @@
 # Mazes
 Using opencv and Dijkstra's algorithm
 
-#### Solving Image Maze - Algorithms course assignment
+### Solving Image Maze - Algorithms course assignment
 
 Given a maze as an image with a start and end point, I wrote code to solve the maze.
 
